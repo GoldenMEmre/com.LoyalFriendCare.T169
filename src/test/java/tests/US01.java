@@ -19,6 +19,7 @@ public class US01 {
         System.out.println("t169");
         System.out.println("Projeye devam T169");
         System.out.println("Selamlar T159");
+        System.out.println("Manual test");
         System.out.println("automation");
     }
 
