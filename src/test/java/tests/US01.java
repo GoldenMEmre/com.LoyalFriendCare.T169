@@ -13,8 +13,8 @@ public class US01 {
     public void US01(){
         Driver.getDriver().get(ConfigReader.getProperty("url"));
         adminPages.signInButton.click();
-
         Driver.quitDriver();
+        System.out.println("Merhaba Takım 169");
 
     }
 
