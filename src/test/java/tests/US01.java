@@ -15,8 +15,12 @@ public class US01 {
         adminPages.signInButton.click();
         Driver.quitDriver();
         System.out.println("Merhaba Takım 169");
+        System.out.println("hello world");
+        System.out.println("t169");
         System.out.println("Projeye devam T169");
         System.out.println("Selamlar T159");
+
+
 
     }
 
